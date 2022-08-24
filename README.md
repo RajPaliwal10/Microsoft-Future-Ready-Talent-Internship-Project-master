@@ -3,7 +3,6 @@
 
 Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
 
-Demo Video : https://vimeo.com/718651949
 
 
 
